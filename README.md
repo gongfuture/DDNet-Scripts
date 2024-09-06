@@ -68,6 +68,6 @@ TODO: 自动化bat复制cfg进入DDNet数据文件夹
 
 详见 https://forum.ddnet.tw/viewtopic.php?f=16&t=5819
 
-下载： 绿色的按钮“<> Code” > “Download  ZIP"
+下载：[ZIP 压缩包](https://github.com/gongfuture/DDNet-Scripts-zh/archive/refs/heads/master.zip)
 
 欢迎提交PR贡献或者给出意见
